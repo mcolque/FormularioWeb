@@ -1,0 +1,21 @@
+[
+    {
+        "firstName": "Juan",
+        "lastName": "Perez",
+        "email": "jperez@gmail.com",
+        "password": "40bd001563085fc35165329ea1ff5c5ecbdbbeef", 
+        "rol": "admin",
+        "gender": "M",
+        "birthdate": "2015"
+    },
+    
+    {
+        "firtsName": "Lopez",
+        "lastName": "Guille",
+        "email": "guille@gmail.com",
+        "password": "40bd001563085fc35165329ea1ff5c5ecbdbbeef",
+        "rol": "user",
+        "gender": "M",
+        "birthdate": "2015"
+    }
+]
